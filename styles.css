@@ -1,0 +1,278 @@
+a{
+    text-decoration:none;
+}
+/*Underlines in hyperlinks will be hidden*/
+
+.h1r{
+    color: #ffffff;
+    font-family: SF Pro Rounded;
+    font-size: 50px;
+    margin-top: 12px;
+}
+
+.h2{
+    color: #116aad;
+    font-family: SF Pro Rounded;
+    font-size: 15px;
+    margin-right: 35px;
+}
+
+.h3{
+    color: #000000;
+    font-family: SF Pro Rounded;
+    font-size: 43px;
+}
+
+.h4{
+    color:#353535;
+    font-family: SF Pro Rounded;
+    font-size: 20px;
+}
+
+.h4a{
+    color:#116aad;
+    font-family: SF Pro Rounded;
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+.h4b{
+    color:#52796f;
+    font-family: SF Pro Rounded;
+    font-size: 20px;
+    margin-top: 0%;
+}
+
+.h4c{
+    color:#ffffff;
+    font-family: SF Pro Rounded;
+    font-size: 15px;
+    margin-top: 0%;
+}
+
+.h5{
+    color: #ff4500;
+    font-family: SF Pro Rounded;
+    font-size: 30px;
+    margin-top: 35px;
+    margin-left: 27%;
+}
+
+.h6{
+    color: #ffffff;
+    font-family: SF Pro Rounded;
+    font-size: 20px;
+}
+
+.h7{
+    color: #116aad;
+    font-family: SF Pro Rounded;
+    font-size: 15px;
+    margin-right: 954px;
+    margin-top: 150px;
+}
+
+.h8{
+    color: #116aad;
+    font-family: SF Pro Rounded;
+    font-size: 18px;
+    margin-top: 110px;
+}
+
+.h8a{
+    color: #ff4500;
+    font-family: SF Pro Rounded;
+    font-size: 18px;
+    margin-top: 110px;
+}
+
+.h9{
+    color: #009be9;
+    font-family: SF Pro Rounded;
+    font-size: 20px;
+    margin-top: 1%;
+}
+
+#div1{
+    width: 100%;
+    height: 86px;
+    background-color: #116aad;
+    padding-top: 1px;
+    word-spacing: 5px;
+}
+
+
+#div2{
+    width: 100%;
+    height: 43px;
+    background-color: #ffffff;
+    padding-top: 1px;
+    word-spacing: 1px;
+}
+#div2 ul{
+    margin-top: 11px;
+}
+#div2 li{
+    display:inline;
+    width:5px;
+}
+
+#div3{
+    width:50%;
+    height: 470px;
+    background: rgba(255,255,255,0.9);
+    margin-left: 0%;
+    word-spacing: 1px;
+    padding-top: 0px;
+    border: 20px solid rgba(255,255,255,0);
+    margin-top: 20px;
+}
+
+#div4{
+    width: 100%;
+    height: 10px;
+    background-color: #ffffff;
+    padding-top: 1px;
+    word-spacing: 5px;
+}
+
+#div5{
+    width: 100%;
+    height: 100px;
+    background-color: #116aad;
+    padding-top: 1px;
+    word-spacing: 5px;
+}
+
+#div5 li{
+    display: inline;
+     width:2px;
+}
+
+#div6{
+    width: 100%;
+    height: 1000px;
+    background-color: #000000;
+    padding-top: 1px;
+    word-spacing: 5px;
+}
+
+#div7{
+    width: 30%;
+    height: 21px;
+    background-color: #ffffff;
+    word-spacing: 25px;
+    margin-left: 35%;
+    border-radius: 30px;
+}
+
+#div7 ul{
+    margin-top:4px;
+}
+#div7 li{
+    display:inline;
+    width: 5px;
+}
+
+#div8{
+    width: 100%;
+    height: 227px;
+    background-color: #ffffff;
+
+}
+
+#div8 img{
+    border-radius: 10px;
+}
+
+#div9{
+    width: 100%;
+    height: 227px;
+    background-color: #126782;
+}
+
+#div10{
+    width: 100%;
+    height: 10px;
+    background-color: #ffffff;
+    padding-top: 1px;
+    word-spacing: 5px;
+}
+
+#div11{
+    width:50%;
+    height: 470px;
+    background: rgba(255,255,255,0.9);
+    margin-left: 47%;
+    word-spacing: 1px;
+    padding-top: 0px;
+    border: 20px solid rgba(255,255,255,0);
+    margin-top: 0px;
+}
+
+#div12{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 100%;
+    height: 1000px;
+    border: 20px solid rgba(255,255,255,0);
+    background: rgba(255,255,255,0.9);
+    margin: 0px;
+}
+
+#div13{
+    width: 100%;
+    height: 35px;
+    background-color: #116aad;
+    word-spacing: 25px;
+    margin-left: 0%;
+    padding-top: 1%;
+}
+
+#div13 p{
+    margin-top: 2px;
+}
+
+#div14{
+    width: 100%;
+    height: 2px;
+    background-color: #116aad;
+}
+
+#div15{
+    width:50%;
+    height: 470px;
+    background: rgba(255,255,255,0.9);
+    margin-left: 0%;
+    word-spacing: 1px;
+    padding-top: 0px;
+    border: 20px solid rgba(255,255,255,0);
+    margin-top: 0px;
+}
+
+#div16{
+    width:100%;
+    height: 470px;
+    background: rgba(255,255,255,0.9);
+    margin-left: 0%;
+    word-spacing: 1px;
+    padding-top: 0px;
+    border: 20px solid rgba(255,255,255,0);
+    margin-top: 20px;
+}
+
+body{
+    background-color: #000000;
+    background-image:url(bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#i1{
+    margin-top:19px;
+}
+
+#i2{
+    margin-top:0px;
+}
